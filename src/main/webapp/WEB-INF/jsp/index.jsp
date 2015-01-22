@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hallo uswahhhhhhhhhhhhhhhhhhhhhh
+MVC Berhasil
 </body>
 </html>
